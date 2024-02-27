@@ -1,0 +1,20 @@
+Docker Volume and How to persist Data
+
+
+Volumes in Docker?
+Volumes are special directory on the host machine or within Docker storage area that can be shared among containers or between a container and the host
+
+Why Use Volumes?
+
+1)Data Persistence-
+2)data Sharing
+3)Performance
+4)Easier Management
+
+How to Use Volumes in Docker
+-v or --volume
+
+docker volume create
+
+
+
