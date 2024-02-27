@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class Main {
 	public static void main(String[] args) {
-		String filename="C://New folder//JavaApp/file.txt";
+		String filename="C://Users//nr18//JavaApp//file.txt";
 		String data="Welcome to Docker Session";
 
 		try(BufferedWriter writer=new BufferedWriter(new FileWriter(filename)))
